@@ -53,7 +53,11 @@ Each directory contains the course materials and labs associated with the respec
 
 To get started, clone the repository to your local machine:
 
-```bash
+1. **Ensure Git LFS is installed**:
+   - Follow the installation instructions for your operating system from the [Git LFS website](https://git-lfs.github.com/).
+
+2. **Clone the repository**:
+   ```bash
 git clone https://github.com/ChaariMahmoud/NVIDIA-DLI-Certifications.git
 ```
 Navigate to the desired course or lab directory and follow the instructions to set up the environment and run the labs.
