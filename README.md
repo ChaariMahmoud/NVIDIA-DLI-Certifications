@@ -54,7 +54,7 @@ Each directory contains the course materials and labs associated with the respec
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/NVIDIA-DLI-Certifications.git
+git clone [https://github.com/ChaariMahmoud/NVIDIA-DLI-Certifications.git]
 ```
 Navigate to the desired course or lab directory and follow the instructions to set up the environment and run the labs.
 
