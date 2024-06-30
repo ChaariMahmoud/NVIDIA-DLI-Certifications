@@ -57,9 +57,9 @@ To get started, clone the repository to your local machine:
    - Follow the installation instructions for your operating system from the [Git LFS website](https://git-lfs.github.com/).
 
 2. **Clone the repository**:
-   ```bash
+```bash
 git clone https://github.com/ChaariMahmoud/NVIDIA-DLI-Certifications.git
-```
+```   
 Navigate to the desired course or lab directory and follow the instructions to set up the environment and run the labs.
 
 ## Acknowledgments
